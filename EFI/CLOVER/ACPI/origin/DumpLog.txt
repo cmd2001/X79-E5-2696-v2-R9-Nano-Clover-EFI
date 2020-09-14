@@ -1,0 +1,90 @@
+7:695  1:444  Found BIOS RSDP at F0060
+7:695  0:000  Printing ACPI tables from RSDP F0060 ...
+7:695  0:000   F0060: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+7:695  0:000    (Xsdt: BDE41070, Rsdt: BDE41028)
+7:695  0:000    BDE41070: 'XSDT', 'A M I', Rev: 1, Len: 100
+7:695  0:000    BDE41028: 'RSDT', 'A M I', Rev: 1, Len: 68
+7:695  0:000    Tables in Xsdt: 8
+7:695  0:000    0. BDE4AE20: 'FACP', 'A M I', Rev: 5, Len: 268
+7:695  0:000        (Dsdt: BDE41168, Facs: BE06BF80, XDsdt: BDE41168, XFacs: 0)
+7:695  0:000        BDE41168: 'DSDT', 'A M I', Rev: 2, Len: 40113
+7:695  0:000        BE06BF80: 'FACS', Ver: 2, Len: 64
+7:695  0:000    1. BDE4AF30: 'APIC', 'A M I', Rev: 3, Len: 412
+7:695  0:000    2. BDE4B0D0: 'FPDT', 'A M I', Rev: 1, Len: 68
+7:695  0:000    3. BDE4B118: 'SSDT', 'PROC', Rev: 1, Len: 1318
+7:695  0:000    4. BDE4B640: 'MCFG', 'OEMMCFG.', Rev: 1, Len: 60
+7:695  0:000    5. BDE4B680: 'HPET', 'A M I', Rev: 1, Len: 56
+7:695  0:000    6. BDE4B6B8: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+7:695  0:000    7. BDE4BA28: 'VFCT', 'A M I', Rev: 1, Len: 60548
+7:695  0:000    Tables in Rsdt: 8
+7:695  0:000    0. BDE410E0: 'FACP', 'A M I', Rev: 2, Len: 132
+7:695  0:000        (Dsdt: BDE41168, Facs: BE06BF40)
+7:695  0:000        BDE41168: 'DSDT', 'A M I', Rev: 2, Len: 40113
+7:695  0:000        BE06BF40: 'FACS', Ver: 0, Len: 64
+7:695  0:000    1. BDE4AF30: 'APIC', 'A M I', Rev: 3, Len: 412
+7:695  0:000    2. BDE4B0D0: 'FPDT', 'A M I', Rev: 1, Len: 68
+7:695  0:000    3. BDE4B118: 'SSDT', 'PROC', Rev: 1, Len: 1318
+7:695  0:000    4. BDE4B640: 'MCFG', 'OEMMCFG.', Rev: 1, Len: 60
+7:695  0:000    5. BDE4B680: 'HPET', 'A M I', Rev: 1, Len: 56
+7:695  0:000    6. BDE4B6B8: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+7:695  0:000    7. BDE4BA28: 'VFCT', 'A M I', Rev: 1, Len: 60548
+7:695  0:000  Found UEFI Acpi 2.0 RSDP at BDE41000
+7:695  0:000  Saving ACPI tables from RSDP BDE41000 to EFI\CLOVER\ACPI\origin ...
+7:695  0:000   BDE41000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+7:695  0:000    (Xsdt: BDE41070, Rsdt: BDE41028)
+7:695  0:000    BDE41070: 'XSDT', 'A M I', Rev: 1, Len: 100
+7:695  0:000    BDE41028: 'RSDT', 'A M I', Rev: 1, Len: 68
+7:695  0:000    Tables in Xsdt: 8
+7:695  0:000    0. BDE4AE20: 'FACP', 'A M I', Rev: 5, Len: 268
+7:695  0:000        (Dsdt: BDE41168, Facs: BE06BF80, XDsdt: BDE41168, XFacs: 0)
+7:695  0:000        BDE41168: 'DSDT', 'A M I', Rev: 2, Len: 40113
+7:695  0:000        BE06BF80: 'FACS', Ver: 2, Len: 64
+7:695  0:000    1. BDE4AF30: 'APIC', 'A M I', Rev: 3, Len: 412
+7:695  0:000    2. BDE4B0D0: 'FPDT', 'A M I', Rev: 1, Len: 68
+7:695  0:000    3. BDE4B118: 'SSDT', 'PROC', Rev: 1, Len: 1318
+7:695  0:000    4. BDE4B640: 'MCFG', 'OEMMCFG.', Rev: 1, Len: 60
+7:695  0:000    5. BDE4B680: 'HPET', 'A M I', Rev: 1, Len: 56
+7:695  0:000    6. BDE4B6B8: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+7:695  0:000    7. BDE4BA28: 'VFCT', 'A M I', Rev: 1, Len: 60548
+7:695  0:000    Tables in Rsdt: 8
+7:695  0:000    0. BDE410E0: 'FACP', 'A M I', Rev: 2, Len: 132
+7:695  0:000        (Dsdt: BDE41168, Facs: BE06BF40)
+7:695  0:000        BDE41168: 'DSDT', 'A M I', Rev: 2, Len: 40113
+7:695  0:000        BE06BF40: 'FACS', Ver: 0, Len: 64
+7:695  0:000    1. BDE4AF30: 'APIC', 'A M I', Rev: 3, Len: 412
+7:695  0:000    2. BDE4B0D0: 'FPDT', 'A M I', Rev: 1, Len: 68
+7:695  0:000    3. BDE4B118: 'SSDT', 'PROC', Rev: 1, Len: 1318
+7:695  0:000    4. BDE4B640: 'MCFG', 'OEMMCFG.', Rev: 1, Len: 60
+7:695  0:000    5. BDE4B680: 'HPET', 'A M I', Rev: 1, Len: 56
+7:695  0:000    6. BDE4B6B8: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+7:695  0:000    7. BDE4BA28: 'VFCT', 'A M I', Rev: 1, Len: 60548
+7:695  0:000  Found UEFI Acpi 1.0 RSDP at BDE41000
+7:695  0:000  Printing ACPI tables from RSDP BDE41000 ...
+7:695  0:000   BDE41000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+7:695  0:000    (Xsdt: BDE41070, Rsdt: BDE41028)
+7:695  0:000    BDE41070: 'XSDT', 'A M I', Rev: 1, Len: 100
+7:695  0:000    BDE41028: 'RSDT', 'A M I', Rev: 1, Len: 68
+7:695  0:000    Tables in Xsdt: 8
+7:695  0:000    0. BDE4AE20: 'FACP', 'A M I', Rev: 5, Len: 268
+7:695  0:000        (Dsdt: BDE41168, Facs: BE06BF80, XDsdt: BDE41168, XFacs: 0)
+7:696  0:000        BDE41168: 'DSDT', 'A M I', Rev: 2, Len: 40113
+7:696  0:000        BE06BF80: 'FACS', Ver: 2, Len: 64
+7:696  0:000    1. BDE4AF30: 'APIC', 'A M I', Rev: 3, Len: 412
+7:696  0:000    2. BDE4B0D0: 'FPDT', 'A M I', Rev: 1, Len: 68
+7:696  0:000    3. BDE4B118: 'SSDT', 'PROC', Rev: 1, Len: 1318
+7:696  0:000    4. BDE4B640: 'MCFG', 'OEMMCFG.', Rev: 1, Len: 60
+7:696  0:000    5. BDE4B680: 'HPET', 'A M I', Rev: 1, Len: 56
+7:696  0:000    6. BDE4B6B8: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+7:696  0:000    7. BDE4BA28: 'VFCT', 'A M I', Rev: 1, Len: 60548
+7:696  0:000    Tables in Rsdt: 8
+7:696  0:000    0. BDE410E0: 'FACP', 'A M I', Rev: 2, Len: 132
+7:696  0:000        (Dsdt: BDE41168, Facs: BE06BF40)
+7:696  0:000        BDE41168: 'DSDT', 'A M I', Rev: 2, Len: 40113
+7:696  0:000        BE06BF40: 'FACS', Ver: 0, Len: 64
+7:696  0:000    1. BDE4AF30: 'APIC', 'A M I', Rev: 3, Len: 412
+7:696  0:000    2. BDE4B0D0: 'FPDT', 'A M I', Rev: 1, Len: 68
+7:696  0:000    3. BDE4B118: 'SSDT', 'PROC', Rev: 1, Len: 1318
+7:696  0:000    4. BDE4B640: 'MCFG', 'OEMMCFG.', Rev: 1, Len: 60
+7:696  0:000    5. BDE4B680: 'HPET', 'A M I', Rev: 1, Len: 56
+7:696  0:000    6. BDE4B6B8: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+7:696  0:000    7. BDE4BA28: 'VFCT', 'A M I', Rev: 1, Len: 60548
